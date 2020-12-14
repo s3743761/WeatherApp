@@ -1,4 +1,4 @@
-# WeatherSingleView
+# WeatherApp
 
 A weather app which uses current location of the user and shows the weather such as sunny,windy,cold,rainy including images related to that weather using the openweathermap API improving the UI and UX.
 
@@ -8,17 +8,17 @@ A weather app which uses current location of the user and shows the weather such
 - Xcode 11.0
 
 ## Getting Started
-To get started  you can simply clone this `weatherSingleView` repository and install the dependencies.
+To get started  you can simply clone this `WeatherApp` repository and install the dependencies.
 
-Clone the `weatherSingleView` repository using git:
+Clone the `WeatherApp` repository using git:
 
 ```bash
-git clone https://github.com/s3743761/weatherSingleView.git
-cd weatherSingleView
+git clone https://github.com/s3743761/WeatherApp.git
+cd WeatherApp
 ```
-- Open ```weatherSingleView``` in Xcode
+- Open ```WeatherApp``` in Xcode
 
-- Run the application```weatherSingleView```
+- Run the application```WeatherApp```
 
 
 ## Features
